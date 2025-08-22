@@ -1,0 +1,30 @@
+[
+    {
+        "id": "program-1",
+        "title_en": "Educational Support Initiative",
+        "title_bn": "শিক্ষাগত সহায়তা উদ্যোগ",
+        "description_en": "Providing free tutoring and school supplies to underprivileged students to ensure they have the resources to succeed.",
+        "description_bn": "বঞ্চিত শিক্ষার্থীদের সাফল্য নিশ্চিত করার জন্য বিনামূল্যে টিউটরিং এবং স্কুল সরবরাহ প্রদান করা।",
+        "updates": [
+            {
+                "date": "2025-08-22",
+                "text_en": "Successfully distributed 500 sets of school supplies in the Dhaka district.",
+                "text_bn": "ঢাকা জেলায় সফলভাবে ৫০০ সেট স্কুল সরবরাহ বিতরণ করা হয়েছে।"
+            }
+        ]
+    },
+    {
+        "id": "program-2",
+        "title_en": "Clean Environment Campaign",
+        "title_bn": "পরিচ্ছন্ন পরিবেশ অভিযান",
+        "description_en": "Organizing community clean-up drives and awareness campaigns about waste management and recycling.",
+        "description_bn": "বর্জ্য ব্যবস্থাপনা এবং পুনর্ব্যবহার সম্পর্কে সচেতনতা বাড়াতে কমিউনিটি পরিচ্ছন্নতা অভিযান এবং প্রচার চালানো।",
+        "updates": [
+            {
+                "date": "2025-07-15",
+                "text_en": "Organized a successful clean-up drive at Ramna Park with over 100 volunteers.",
+                "text_bn": "১০০ জনেরও বেশি স্বেচ্ছাসেবক নিয়ে রমনা পার্কে একটি সফল পরিচ্ছন্নতা অভিযান আয়োজন করা হয়েছে।"
+            }
+        ]
+    }
+]

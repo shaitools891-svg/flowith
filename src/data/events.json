@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title_en": "Annual Charity Gala",
+        "title_bn": "বার্ষিক দাতব্য গালা",
+        "start": "2025-09-15T19:00:00",
+        "end": "2025-09-15T22:00:00",
+        "details_en": "Join us for our annual fundraising event. All proceeds go to our Educational Support Initiative.",
+        "details_bn": "আমাদের বার্ষিক তহবিল সংগ্রহ অনুষ্ঠানে যোগ দিন। সমস্ত আয় আমাদের শিক্ষাগত সহায়তা উদ্যোগে যাবে।"
+    },
+    {
+        "id": 2,
+        "title_en": "Tree Plantation Day",
+        "title_bn": "বৃক্ষরোপণ দিবস",
+        "start": "2025-10-05T09:00:00",
+        "end": "2025-10-05T13:00:00",
+        "details_en": "A day dedicated to planting trees in urban areas to combat pollution.",
+        "details_bn": "দূষণ মোকাবেলায় শহরাঞ্চলে বৃক্ষরোপণের জন্য একটি বিশেষ দিন।"
+    }
+]

@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "team": "Our Team",
+    "programs": "Programs",
+    "calendar": "Calendar",
+    "gallery": "Gallery",
+    "postponed": "Postponed Activities",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "title": "Bright Hearts Brighter Society",
+    "tagline": "Youth organization for a better future."
+  },
+  "about": {
+    "title": "About Us",
+    "history": "Our History",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Core Values"
+  },
+  "team": {
+    "title": "Our Team"
+  },
+  "programs": {
+    "title": "Our Programs",
+    "updates": "Updates"
+  },
+  "calendar": {
+    "title": "Calendar of Events"
+  },
+  "gallery": {
+    "title": "Gallery"
+  },
+  "postponed": {
+    "title": "Postponed Activities"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "submit": "Submit"
+  },
+  "common": {
+    "loading": "Loading...",
+    "viewDetails": "View Details"
+  }
+}

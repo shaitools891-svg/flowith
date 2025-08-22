@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8fafc; /* slate-50 */
+    color: #1e293b; /* slate-800 */
+}
+
+.glassmorphism {
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.fc-button {
+    background-color: #3b82f6 !important; /* blue-500 */
+    color: white !important;
+    border: none !important;
+    border-radius: 0.375rem !important;
+    padding: 0.5rem 1rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.fc-button:hover {
+    background-color: #2563eb !important; /* blue-600 */
+}
+
+.fc-toolbar-title {
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    color: #1e293b; /* slate-800 */
+}
+
+.fc-daygrid-day-number {
+    color: #475569; /* slate-600 */
+}
+
+.fc-day-today {
+    background-color: #eff6ff !important; /* blue-50 */
+}
+
+.fc-event {
+    border: none !important;
+    padding: 4px 8px !important;
+    border-radius: 4px !important;
+    cursor: pointer;
+}
+
+.fc-h-event {
+    background-color: #3b82f6 !important; /* blue-500 */
+}
+
+.nav-link {
+    position: relative;
+    transition: color 0.3s;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -4px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #3b82f6; /* blue-500 */
+    transition: width 0.3s ease-in-out;
+}
+
+.nav-link.active,
+.nav-link:hover {
+    color: #3b82f6; /* blue-500 */
+}
+.nav-link.active::after,
+.nav-link:hover::after {
+    width: 100%;
+}

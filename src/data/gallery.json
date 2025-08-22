@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "src/assets/images/gallery/image1.jpg",
+        "caption_en": "Volunteers during the Clean Environment Campaign.",
+        "caption_bn": "পরিচ্ছন্ন পরিবেশ অভিযানের সময় স্বেচ্ছাসেবকরা।"
+    },
+    {
+        "id": 2,
+        "imageUrl": "src/assets/images/gallery/image2.jpg",
+        "caption_en": "Distributing school supplies to children.",
+        "caption_bn": "শিশুদের মাঝে স্কুল সামগ্রী বিতরণ।"
+    },
+    {
+        "id": 3,
+        "imageUrl": "src/assets/images/gallery/image3.jpg",
+        "caption_en": "A moment from our Annual Charity Gala.",
+        "caption_bn": "আমাদের বার্ষিক চ্যারিটি গালা থেকে একটি মুহূর্ত।"
+    }
+]

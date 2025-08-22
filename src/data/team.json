@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name_en": "John Doe",
+        "name_bn": "জন ডো",
+        "role_en": "President",
+        "role_bn": "সভাপতি",
+        "bio_en": "Leading with a vision for a brighter future.",
+        "bio_bn": "একটি উজ্জ্বল ভবিষ্যতের জন্য দৃষ্টি দিয়ে নেতৃত্ব দিচ্ছেন।",
+        "imageUrl": "src/assets/images/team/member1.jpg"
+    },
+    {
+        "id": 2,
+        "name_en": "Jane Smith",
+        "name_bn": "জেন স্মিথ",
+        "role_en": "Vice President",
+        "role_bn": "সহ-সভাপতি",
+        "bio_en": "Dedicated to community service and empowerment.",
+        "bio_bn": "সম্প্রদায় পরিষেবা এবং ক্ষমতায়নে নিবেদিত।",
+        "imageUrl": "src/assets/images/team/member2.jpg"
+    },
+    {
+        "id": 3,
+        "name_en": "Ahmed Khan",
+        "name_bn": "আহমেদ খান",
+        "role_en": "Program Coordinator",
+        "role_bn": "প্রোগ্রাম সমন্বয়কারী",
+        "bio_en": "Organizing impactful events for social change.",
+        "bio_bn": "সামাজিক পরিবর্তনের জন্য প্রভাবশালী অনুষ্ঠান আয়োজন করছেন।",
+        "imageUrl": "src/assets/images/team/member3.jpg"
+    }
+]

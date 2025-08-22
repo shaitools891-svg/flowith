@@ -1,0 +1,24 @@
+{
+  "name": "bright-hearts-brighter-society",
+  "version": "1.0.0",
+  "description": "A static, responsive, and multilingual website for the youth organization 'আলোকিত হৃদয় আলোকিত সমাজ' / 'Bright Hearts Brighter Society.'",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.11",
+    "@fullcalendar/daygrid": "^6.1.11",
+    "framer-motion": "^11.1.7",
+    "i18next": "^23.11.2",
+    "lucide": "^0.378.0",
+    "react": "N/A (Vanilla JS used per constraints)",
+    "react-dom": "N/A (Vanilla JS used per constraints)",
+    "react-i18next": "N/A (Vanilla JS used per constraints)",
+    "react-router-dom": "N/A (Vanilla JS used per constraints)"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "homepage": "https://your-github-username.github.io/your-repo-name"
+}
